@@ -6,7 +6,7 @@ I really like languages that are close to the metal, like assembly x86-64 for an
 - C/C++ 🖥️
 - COBOL 👨‍💼
 - Assembly 👴
-- Lua 🌑
+- Lua 🇧🇷
 - Awk 🦆
 - Bash 🐧
 - Java ☕
