@@ -6,12 +6,12 @@ I really like languages that are close to the metal, like assembly x86-64 for an
 - It looks like this
 ![Portfolio](https://github.com/PedroGeometrias/PedroGeometrias/blob/main/Peek%202024-07-17%2000-33.gif)
 ## Languages
-- C/C++ 🖥️
-- COBOL 👨‍💼
-- Assembly 👴
-- Lua 🇧🇷
-- Awk 🦆
-- Bash 🐧
-- Java ☕
-- HTML/CSS 🧑‍🎨
-- JavaScript 🚮
+- C/C++ :computer:
+- COBOL :man_office_worker:
+- Assembly :older_man:
+- Lua :brazil: 
+- Awk :duck:
+- Bash :penguin: 
+- Java :coffee:
+- HTML/CSS :artist:
+- JavaScript :put_litter_in_its_place:
